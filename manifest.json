@@ -1,0 +1,18 @@
+{
+  "lang": "zh-CN",
+  "name": "世界很美，而你正好有空",
+  "short_name": "Talk",
+  "start_url": "/talk/",
+  "id": "/talk/",
+  "display": "standalone",
+  "background_color": "#E9ECEF",
+  "description": "世界很美，而你正好有空",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
